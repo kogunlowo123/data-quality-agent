@@ -48,6 +48,11 @@ Data quality monitoring agent that defines and enforces data quality rules, dete
 
 ## Architecture
 
+![7-Layer Architecture](docs/diagrams/architecture-7-layer.png)
+
+*Where RAG sits in the stack — the 7-layer enterprise AI agent architecture.*
+
+
 ```
 data-quality-agent/
 │
